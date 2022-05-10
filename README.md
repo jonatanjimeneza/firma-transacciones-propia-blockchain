@@ -6,4 +6,6 @@ En este video, refactorizaremos nuestra cadena de bloques Javascript para que so
 
 Usaremos la curva elíptica secp256k1 para generar un par de claves. El mismo algoritmo utilizado en Bitcoin. Pero también puedes usar otros algoritmos.
 
+Youtube: https://www.youtube.com/watch?v=NCDt6iBmPPU
 
+![firma transacciones insta](https://user-images.githubusercontent.com/101588200/167726853-7cec503e-20d0-4086-9fc7-541c5297fd3e.png)
